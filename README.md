@@ -1,7 +1,6 @@
 ## Hi there 👋 It's me Gokul G
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47v8cjk0mohht1sg5dny1o3qg0n9bh84nx5ajyrfev&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<br/>
+
 - 🧑‍💻 Artificial Intelligence and Data Science Student
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
@@ -14,7 +13,7 @@
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/228BE6/react-native.png" alt="react-native"/>
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/228BE6/burp-suite.png" alt="burp-suite"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="intellij-idea"/>
 
