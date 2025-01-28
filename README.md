@@ -15,6 +15,12 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+<br/>
+- Item 1
+- Item 2
+  - Subitem 2.1
+  - Subitem 2.2
+- Item 3
 
 ### Leetcode
 [![Gokul_G07's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Gokul_G07&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
