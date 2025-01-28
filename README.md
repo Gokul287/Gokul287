@@ -1,10 +1,11 @@
 ## Hi there 👋 It's me Gokul G
 
-
-- Artificial intelligence and Data Science Student
-- I’m currently learning DSA
-- Ask me about Tech
-- How to reach me:
+- 🧑‍💻 Artificial Intelligence and Data Science Student
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on ML/AI
+- 🤔 I’m looking for help with Placements in FAANG
+- 💬 Ask me about Tech
+- 📫 How to reach me :
 
 <br/>[![Linkedin Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gokul-g28/)
 - 😄 Pronouns: Techie
