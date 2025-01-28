@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Gokul G
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47v8cjk0mohht1sg5dny1o3qg0n9bh84nx5ajyrfev&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 - Artificial intelligence and Data Science Student
 - I’m currently learning DSA
 - Ask me about Tech
