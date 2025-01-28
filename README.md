@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Gokul G
 
-<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm)">
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47v8cjk0mohht1sg5dny1o3qg0n9bh84nx5ajyrfev&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
