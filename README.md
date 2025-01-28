@@ -2,10 +2,10 @@
 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47v8cjk0mohht1sg5dny1o3qg0n9bh84nx5ajyrfev&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <br/>
-- 🧑‍💻Artificial intelligence and Data Science Student     
-- 🌱I’m currently learning DSA
-- 💬Ask me about Tech
-- 📫How to reach me :
+- Artificial intelligence and Data Science Student     
+- I’m currently learning DSA
+- Ask me about Tech
+- How to reach me :
 <br/>[![Linkedin Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gokul-g28/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Portugese.
@@ -15,12 +15,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-<br/>
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
-- Item 3
+
 
 ### Leetcode
 [![Gokul_G07's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Gokul_G07&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
