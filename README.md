@@ -6,7 +6,7 @@
 * 🌱 I’m currently learning DSA
 * 💬 Ask me about Tech
 * 📫 How to reach me :
-<br /> [![Linkedin Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-g28/)
+<br />[![Linkedin Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gokul-g28/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Portugese.
 
