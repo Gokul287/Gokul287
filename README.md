@@ -20,8 +20,8 @@
 
 
 ### Leetcode
-![LeetCode Stats](https://leetcode.card.workers.dev/Gokul_G07?theme=default&font=baloo&extension=null)
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Gokul_G07)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Gokul_G07)](https://leetcode.com/Gokul_G07/)
+
 
 <!---
 Gokul287/Gokul287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
