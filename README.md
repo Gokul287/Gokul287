@@ -5,12 +5,12 @@
 - 💻Web Development
 - 🛜Web Penetration Testing
 - 💬 Ask me about Tech
+- - Portfolio Website
+<br/> [![Gmail Image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gokulgportfolio-60037110467.development.catalystserverless.in)
 - 📫 How to reach me :
 <br/>[![Linkedin Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gokul-g28/) [![Gmail Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulgovindaraj08@gmail.com)
-- 😄 Pronouns: Techie
 - ⚡ Fun fact: I Know French.
-- Portfolio Website
-<br/> [![Gmail Image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gokulgportfolio-60037110467.development.catalystserverless.in)
+
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
@@ -20,7 +20,7 @@
 
 
 ### Leetcode
-[![Gokul_G07's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Gokul_G07&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+![LeetCode Stats](https://leetcode.card.workers.dev/Gokul_G07?theme=default&font=baloo&extension=null)
 <!---
 Gokul287/Gokul287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
